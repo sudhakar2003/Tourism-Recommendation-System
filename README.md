@@ -6,5 +6,5 @@
   - Filename: City.csv
 
 - Places Dataset:
-  - Attributes: city, place (all the places to be visited in the city), distance from city center, ratings of places, place description
+  - Attributes: city, place (all the places to be visited in the city), distance from city center, ratings of places, place description, Category of place
   - Filename: Places.csv
